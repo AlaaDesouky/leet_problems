@@ -3,3 +3,4 @@ export * from "./ListNode";
 export * from "./NAryNode";
 export * from "./ListNode";
 export * from "./DSU";
+export * from "./UnionFind";
